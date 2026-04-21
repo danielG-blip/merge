@@ -48,7 +48,7 @@ id,nombre,email,fecha_nacimiento,telefono,pais,salario,categoria,fecha_registro
 47,Emilio Cabrera,emilio.cabrera@example.com,1994-11-17,123-456-7936,Perú,42000,regular,2023-02-17
 48,Amparo Reyes,amparo.reyes@example.com,1982-12-18,123-456-7937,Brasil,57000,vip,2023-02-18
 49,Gonzalo Nieto,gonzalo.nieto@example.com,1999-01-19,123-456-7938,Colombia,45000,premium,2023-02-19
-50,Marina Carrasco,marina.carrasco@example.com,1986-02-30,123-456-7939,México,49000,regular,2023-02-20
+50,Marina Carrasco,marina.carrasco@example.com,1986-02-28,123-456-7939,México,49000,regular,2023-02-20
 51,Joel Ibáñez,joel.ibanez@example.com,1993-03-21,123-456-7940,Chile,41000,vip,2023-02-21
 52,Verónica Calvo,veronica.calvo@example.com,1989-04-22,123-456-7941,Argentina,53000,premium,2023-02-22
 53,Hugo Aguilar,hugo.aguilar@example.com,1996-05-23,123-456-7942,Perú,44000,regular,2023-02-23
@@ -73,7 +73,7 @@ id,nombre,email,fecha_nacimiento,telefono,pais,salario,categoria,fecha_registro
 72,Andrea Prieto,andrea.prieto@example.com,1983-12-11,123-456-7961,Brasil,59000,vip,2023-03-14
 73,Marcos Vargas,marcos.vargas@example.com,1990-01-12,123-456-7962,Colombia,47000,premium,2023-03-15
 74,Belén Cortés,belen.cortes@example.com,1987-02-13,123-456-7963,México,51000,regular,2023-03-16
-75,Ángel Cabrera,angel.cabrera@example.com,1994-03-14,Chille,43000,vip,2023-03-17
+75,Ángel Cabrera,angel.cabrera@example.com,1994-03-14,Chille,43000,vip,,2023-03-17
 76,Clara Reyes,clara.reyes@example.com,1984-04-15,123-456-7965,Argentina,55000,premium,2023-03-18
 77,Hugo Nieto,hugo.nieto@example.com,1997-05-16,123-456-7966,Perú,46000,regular,2023-03-19
 78,Patricia Carrasco,patricia.carrasco@example.com,1981-06-17,123-456-7967,Brasil,58000,vip,2023-03-20
