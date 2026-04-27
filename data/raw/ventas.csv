@@ -1,0 +1,121 @@
+id,producto,cantidad_vendida,precio_unitario,total,fecha_venta
+1,Camisa Hugo Boss,2,150,300,2024-01-15
+2,Pantalón Gucci,1,200,200,2024-02-20
+3,Zapatos Prada,1,300,300,2024-03-10
+4,Bolsa Chanel,1,500,500,2024-04-05
+5,Camisa Louis Vuitton,,250,750,2024-05-18
+6,Pantalón Versace,2,180,360,2024-06-01
+7,Zapatos Dior,1,400,400,2024-07-12
+8,Bolsa Hermès,1,600,600,2024-08-09
+9,Camisa Armani,4,120,480,2024-09-14
+10,Pantalón Calvin Klein,2,-150,300,2024-10-01
+11,Zapatos Nike,5,100,500,2024-11-11
+12,Bolsa Adidas,3,80,240,2024-12-05
+13,Camisa Zara,6,50,300,2025-01-20
+14,Pantalón H&M,4,40,160,2025-02-22
+15,Zapatos Convers,2,70,140,2025-03-03
+16,Bolsa Mango,1,60,60,2025-04-04
+17,Camisa Hugo Boss,1,150,150,2025-05-06
+18,Pantalón Gucci,2,200,400,2025-06-15
+19,Zapatos Prada,1,300,300,2025-07-07
+20,Bolsa Chanel,1,500,,2025-08-18
+21,Camisa Louis Vuitton,2,250,500,2025-09-09
+22,Pantalón Versace,1,180,180,2025-10-10
+23,Zapatos Dior,1,400,400,2025-11-11
+24,Bolsa Hermès,1,600,600,2025-12-12
+25,Camisa Armani,3,120,360,2026-01-32
+26,Pantalón Calvin Klein,2,150,300,2026-02-14
+27,Zapatos Nike,4,100,400,2026-03-03
+28,Bolsa Adidas,2,80,160,2026-04-07
+29,Camisa Zara,5,50,250,2026-05-05
+30,Pantalón H&M,tres,40,120,2026-06-06
+31,Zapatos Converse,1,70,70,2026-07-07
+32,Bolsa Mango,2,60,120,2026-08-08
+33,Camisa Hugo Boss,2,150,300,2026-09-09
+34,Pantalón Gucci,1,200,200,2026-10-10
+35,Zapatos Prada,1,,300,2026-11-11
+36,Bolsa Chanel,1,500,500,2026-12-12
+37,Camisa Louis Vuitton,3,250,750,2027-01-01
+38,Pantalón Versace,2,180,360,2027-02-02
+39,Zapatos Dior,1,400,400,2027-03-03
+40,Bolsa  Hermès,1,600,600,2027-04-04
+41,Camisa Armani,4,120,480,2027-05-05
+42,Pantalón Calvin Klein,2,150,300,2027-06-06
+43,Zapatos Nike,5,100,500,2027-07-07
+44,Bolsa Adidas,3,80,240,2027-08-08
+45,Camisa Zara,6,50,-300,2027-09-09
+46,Pantalón H&M,4,40,160,2027-10-10
+47,Zapatos Converse,2,70,140,2027-11-11
+48,Bolsa Mango,1,60,60,2027-12-12
+49,Camisa Hugo Boss,1,150,150,2028-01-01
+50,Pantalón Gucci,2,200,400,
+51,Zapatos Prada,1,300,300,2028-03-03
+52,Bolsa Chanel,1,500,500,2028-04-04
+53,Camisa Louis Vuitton,2,250,500,2028-05-05
+54,Pantalón Versace,1,180,180,2028-06-06
+55,Zapatos Dior,-1,400,400,2028-07-07
+56,Bolsa Hermès,1,600,600,2028-08-08
+57,Camisa Armani,3,120,360,2028-09-09
+58,Pantalón Calvin Klein,2,150,300,2028-10-10
+59,Zapatos Nike,4,100,400,2028-11-11
+60,Bolsa Adidas,2,ochenta,160,2028-12-12
+61,Camisa Zara,5,50,250,2029-01-01
+62,Pantalón H&M,3,40,120,2029-02-02
+63,Zapatos Converse,1,70,70,2029-03-03
+64,Bolsa Mango,2,60,120,2029-04-04
+65,,2,150,300,2029-05-05
+66,Pantalón Gucci,1,200,200,2029-06-06
+67,Zapatos Prada,1,300,300,2029-07-07
+68,Bolsa Chanel,1,500,500,2029-08-08
+69,Camisa Louis Vuitton,3,250,750,2029-09-09
+70,Pantalón Versace,2,180,,2029-10-10
+71,Zapatos Dior,1,400,400,2029-11-11
+72,Bolsa Hermès,1,600,600,2029-12-12
+73,Camisa Armani,4,120,480,2030-01-01
+74,Pantalón Calvin Klein,2,150,300,2030-02-02
+75,Zapatos Nike,5,100,500,2030-03-32
+76,Bolsa Adidas,3,80,240,2030-04-04
+77,Camisa Zara,6,50,300,2030-05-05
+78,Pantalón H&M,4,40,160,2030-06-06
+79,Zapatos Converse,2,70,140,2030-07-07
+80,Bolsa Mango,,60,60,2030-08-08
+81,Camisa Hugo Boss,1,150,150,2030-09-09
+82,Pantalón Gucci,2,200,400,2030-10-10
+83,Zapatos Prada,1,300,300,2030-11-11
+84,Bolsa Chanel,1,500,500,2030-12-12
+85,Camisa Louis Vuitton,2,-250,500,2031-01-01
+86,Pantalón Versace,1,180,180,2031-02-02
+87,Zapatos Dior,1,400,400,2031-03-03
+88,Bolsa Hermès,1,600,600,2031-04-04
+89,Camisa Armani,3,120,360,2031-05-05
+90,Pantalón Calvin Kleinn,2,150,300,2031-06-06
+91,Zapatos Nike,4,100,400,2031-07-07
+92,Bolsa Adidas,2,80,160,2031-08-08
+93,Camisa Zara,5,50,250,2031-09-09
+94,Pantalón H&M,3,40,120,2031-10-10
+95,Zapatos Converse,1,70,,2031-11-11
+96,Bolsa Mango,2,60,120,2031-12-12
+97,Camisa Hugo Boss,2,150,300,2032-01-01
+98,Pantalón Gucci,1,200,200,2032-02-02
+99,Zapatos Prada,1,300,300,2032-03-03
+100,Bolsa Chanel,1,500,500,2032-04-31
+101,Camisa Louis Vuitton,3,250,750,2032-05-05
+102,Pantalón Versace,2,180,360,2032-06-06
+103,Zapatos Dior,1,400,400,2032-07-07
+104,Bolsa Hermès,1,600,600,2032-08-08
+105,Camisa Armani,cuatro,120,480,2032-09-09
+106,Pantalón Calvin Klein,2,150,300,2032-10-10
+107,Zapatos Nike,5,100,500,2032-11-11
+108,Bolsa Adidas,3,80,240,2032-12-12
+109,Camisa Zara,6,50,300,2033-01-01
+110,Pantalón H&M,4,,160,2033-02-02
+111,Zapatos Converse,2,70,140,2033-03-03
+112,Bolsa Mango,1,60,60,2033-04-04
+113,Camisa Hugo Boss,1,150,150,2033-05-05
+114,Pantalón Gucci,2,200,400,2033-06-06
+115,Zapatos  Prada,1,300,300,2033-07-07
+116,Bolsa Chanel,1,500,500,2033-08-08
+117,Camisa Louis Vuitton,2,250,500,2033-09-09
+118,Pantalón Versace,1,180,180,2033-10-10
+119,Zapatos Dior,1,400,400,2033-11-11
+120,Bolsa Hermès,1,600,-600,2033-12-12
