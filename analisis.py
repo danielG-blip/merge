@@ -7,12 +7,12 @@ def analisis(df_ventas):
 
     print("Traer a las personas por país")
     print("Colombia")
-    mascara_Colombia = df_ventas["pais"] == "Colombia"
+    mascara_Colombia = df_ventas["Pais"] == "Colombia"
     df_ventas_Colombia = df_ventas[mascara_Colombia]
     print(df_ventas_Colombia)
 
     print("Traer a las personas que tengan un salario mayor a 40.000")
-    mascara_salario = df_ventas["salario"] > 40000
+    mascara_salario = df_ventas["Salario"] > 40000
     df_salario_mayor = df_ventas[mascara_salario]
     print(df_salario_mayor)
     
@@ -23,4 +23,4 @@ def analisis(df_ventas):
     print(df_ventas["total"].sum())
 
     print("Total de las ventas por país")
-    print(df_ventas.groupby("pais")["total"].sum())
+    print(df_ventas.groupby("Pais")["total"].sum())
