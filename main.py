@@ -17,7 +17,7 @@ while True:
     print("""
 1. Cargar DataFrame.
 2. Ejecutar Limpieza.
-3. Ejecutar Mergeo (Unión).
+3. Ejecutar Mergeo .
 4. Cargar Análisis.
 5. Salir.
     """)
